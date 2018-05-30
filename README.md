@@ -1,18 +1,8 @@
 # classification-of-cardiac_arrhythmia-data
 
-Analyze data and address missing data if there is any.
 
-Decide aboute a good evaluation strategy and justify your choice.
+Multi-Class Classification using an optimized Supervised Machine Learning algorithm
 
-Find the best parameters for the following classification models:
+Best Model using Cross Validation (KNN, SVM, Random Forest, Bagging, Boosting, PCA)
 
-KNN classifcation
-Logistic Regression
-Linear Supprt Vector Machine
-Kerenilzed Support Vector Machine
-Decision Tree
-Random Forest
-
-Then use different bagging and boosting methods to boost the results? Do you see any significant change? Why or why not?
-
-Next, use data reduction method you have learned in class to reduce the size of data, and agian try above models. Do you get better results? Justify your answer.
+Built classification models (KNN, Decision Tree, Random Forest, etc) to predict if a patient has worse arrhythmia, and using feature reduction techniques like PCA
